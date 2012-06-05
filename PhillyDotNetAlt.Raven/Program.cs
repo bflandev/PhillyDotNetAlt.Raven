@@ -13,11 +13,7 @@ namespace PhillyDotNetAlt.Raven
             {
                 using (var session = store.OpenSession())
                 {
-                    var posts = session.Query<Post>().Where(x => x.By == "Vadim");
-                    foreach (var post in posts)
-                    {
-                        Console.WriteLine(String.Concat(post.Content,"(",post.Hates,")"));
-                    }
+                  
                 }
             }
             Console.ReadLine();
