@@ -13,7 +13,10 @@ namespace PhillyDotNetAlt.Raven
             {
                 using (var session = store.OpenSession())
                 {
-                  
+                    var post = session.Load<Post>(2);
+                    post.Tags.Add("Ruby");
+                    session.Store(post);
+                    session.SaveChanges();
                 }
             }
             Console.ReadLine();
