@@ -13,7 +13,11 @@ namespace PhillyDotNetAlt.Raven
             {
                 using (var session = store.OpenSession())
                 {
-                  
+                    var query = session.Query<TagCount>("Posts/TagCount");
+                    foreach (var tagcount in query)
+                    {
+                        Console.WriteLine("{0}-{1}", tagcount.Tag,tagcount.Count);
+                    }
                 }
             }
             Console.ReadLine();
