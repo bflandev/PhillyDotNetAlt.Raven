@@ -1,0 +1,7 @@
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\PhillyDotNetAlt.Raven.exe
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\PhillyDotNetAlt.Raven.pdb
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\PhillyDotNetAlt.Raven.Domain.dll
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\PhillyDotNetAlt.Raven.Domain.pdb
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\obj\x86\Debug\PhillyDotNetAlt.Raven.exe
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\obj\x86\Debug\PhillyDotNetAlt.Raven.pdb

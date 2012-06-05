@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="CFC7BC62-B055-4493-9656-8930DB71082B" ModuleId="PhillyDotNetAlt.Raven" />
+  <Module PersistentId="BF79CF92-8485-4287-BC89-93A344A60BE5" ModuleId="PhillyDotNetAlt.Raven.Domain" />
+</Modules>
