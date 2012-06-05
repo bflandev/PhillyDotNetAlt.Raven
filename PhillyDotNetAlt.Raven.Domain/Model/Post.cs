@@ -11,5 +11,6 @@ namespace PhillyDotNetAlt.Raven.Domain.Model
         public String Content { get; set; }
         public String By { get; set; }
         public int Hates { get; set; }
+        public IList<String> Tags { get; set; }
     }
 }

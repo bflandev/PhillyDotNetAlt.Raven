@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using PhillyDotNetAlt.Raven.Domain.Model;
 using Raven.Client.Document;
 
 namespace PhillyDotNetAlt.Raven
@@ -14,9 +13,14 @@ namespace PhillyDotNetAlt.Raven
             {
                 using (var session = store.OpenSession())
                 {
-                    
+                    var posts = session.Query<Post>().Where(x => x.By == "Vadim");
+                    foreach (var post in posts)
+                    {
+                        Console.WriteLine(String.Concat(post.Content,"(",post.Hates,")"));
+                    }
                 }
             }
+            Console.ReadLine();
         }
     }
 }
