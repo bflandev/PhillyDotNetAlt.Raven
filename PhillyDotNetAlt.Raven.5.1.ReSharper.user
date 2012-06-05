@@ -3,20 +3,19 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="CFC7BC62-B055-4493-9656-8930DB71082B/f:Program.cs" caret="123" fromTop="5" />
-      <File id="BF79CF92-8485-4287-BC89-93A344A60BE5/d:Model/f:Post.cs" caret="331" fromTop="12" />
-      <File id="BF79CF92-8485-4287-BC89-93A344A60BE5/d:Model/f:PostProvider.cs" caret="597" fromTop="17" />
+      <File id="CFC7BC62-B055-4493-9656-8930DB71082B/f:Program.cs" caret="543" fromTop="18" />
+      <File id="BF79CF92-8485-4287-BC89-93A344A60BE5/d:Model/f:Post.cs" caret="343" fromTop="15" />
     </RecentFiles>
     <RecentEdits>
-      <File id="CFC7BC62-B055-4493-9656-8930DB71082B/f:Program.cs" caret="123" fromTop="5" />
-      <File id="BF79CF92-8485-4287-BC89-93A344A60BE5/d:Model/f:Post.cs" caret="340" fromTop="12" />
-      <File id="BF79CF92-8485-4287-BC89-93A344A60BE5/d:Model/f:PostProvider.cs" caret="132" fromTop="5" />
-      <File id="BF79CF92-8485-4287-BC89-93A344A60BE5/d:Model/f:PostProvider.cs" caret="557" fromTop="15" />
+      <File id="CFC7BC62-B055-4493-9656-8930DB71082B/f:Program.cs" caret="668" fromTop="20" />
+      <File id="BF79CF92-8485-4287-BC89-93A344A60BE5/d:Model/f:Post.cs" caret="338" fromTop="14" />
+      <File id="BF79CF92-8485-4287-BC89-93A344A60BE5/d:Model/f:Post.cs" caret="331" fromTop="12" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -32,16 +31,72 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="4" />
-      <Item value="int" priority="3" />
-      <Item value="IList" priority="0" />
+      <Item value="public" priority="11" />
+      <Item value="int" priority="4" />
+      <Item value="IList" priority="1" />
       <Item value="return" priority="0" />
-      <Item value="new" priority="3" />
+      <Item value="new" priority="9" />
       <Item value="List&lt;Post&gt;" priority="0" />
       <Item value="Post" priority="2" />
-      <Item value="Content" priority="2" />
+      <Item value="Content" priority="3" />
+      <Item value="By" priority="3" />
+      <Item value="Hates" priority="3" />
+      <Item value="using" priority="1" />
+      <Item value="var" priority="9" />
+      <Item value="Url" priority="0" />
+      <Item value="store" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="session" priority="11" />
+      <Item value="Console`0" priority="6" />
+      <Item value="post" priority="11" />
+      <Item value="foreach" priority="2" />
+      <Item value="String`0" priority="1" />
+      <Item value="Post`0" priority="3" />
+      <Item value="Tags" priority="2" />
+      <Item value="List&lt;string&gt;" priority="2" />
+      <Item value="void" priority="0" />
+      <Item value="dynamic" priority="0" />
+      <Item value="o" priority="0" />
+      <Item value="tagcount" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="Queryable`0" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="input" priority="1" />
+      <Item value="select" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.Document.DocumentStore">
+      <Item value="Initialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentStore">
+      <Item value="OpenSession`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentSession">
+      <Item value="Store`0" priority="2" />
+      <Item value="SaveChanges`0" priority="2" />
+      <Item value="Load`1" priority="2" />
+      <Item value="Query`2" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="4" />
+      <Item value="ReadLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PhillyDotNetAlt.Raven.Domain.Model.Post">
+      <Item value="Content" priority="4" />
       <Item value="By" priority="2" />
       <Item value="Hates" priority="1" />
+      <Item value="Tags" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.Linq.IRavenQueryable`1">
+      <Item value="Where`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Concat`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="1" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
