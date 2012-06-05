@@ -5,3 +5,14 @@ C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\PhillyDotNetAl
 C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\obj\x86\Debug\PhillyDotNetAlt.Raven.exe
 C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\obj\x86\Debug\PhillyDotNetAlt.Raven.pdb
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Raven.Client.Lightweight.dll
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Newtonsoft.Json.dll
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Raven.Abstractions.dll
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\NLog.dll
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Raven.Client.Lightweight.pdb
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Raven.Client.Lightweight.xml
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Newtonsoft.Json.pdb
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Newtonsoft.Json.xml
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Raven.Abstractions.pdb
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\Raven.Abstractions.xml
+C:\projects\PhillyDotNetAlt.Raven\PhillyDotNetAlt.Raven\bin\Debug\NLog.xml
